@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @h-isthebestletter
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- It is I, h-isthebestletter. No "g"s.
+- Do not speak about Genshin in my face (that game starts with a letter G 🤮🤮🤮🤮)
+
+- Everything above is a joke
+- If you ever come across this, this is a private accoutn with only private repos for now.
 
 <!---
 h-isthebestletter/h-isthebestletter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
