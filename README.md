@@ -6,7 +6,7 @@
 
 - Definitely does not specialize in Python (no joke)
 
-![Test link](https://github.com/h-isthebestletter/h-isthebestletter/blob/main/trigo_f.png)
+![Test link](https://github.com/h-isthebestletter/h-isthebestletter/blob/main/test_pic.png)
 
 <!---
 h-isthebestletter/h-isthebestletter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
