@@ -6,7 +6,7 @@
 
 - Definitely does not specialize in Python (no joke)
 
-![Test link](https://github.com/h-isthebestletter/h-isthebestletter/blob/main/test_pic.png | height=100)
+<img src="https://github.com/h-isthebestletter/h-isthebestletter/blob/main/test_pic.png" alt="Test picture" height="200">
 
 <!---
 h-isthebestletter/h-isthebestletter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
