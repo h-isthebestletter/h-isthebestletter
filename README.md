@@ -1,7 +1,7 @@
 # h-isthebestletter (Yes that's me)
 
 Hey there! Are you looking for someone who:
-- Does not specialize in Python (what's vectorization)?
+- Has ~5 years of Python experience but is still complete trash at it (what's vectorization)?
 - Fools around with Rust and writes the worst code possible?
 - Laughs at JS but uses it badly anyway?
 - Wrote around 4000 lines of terrible Lua code?
