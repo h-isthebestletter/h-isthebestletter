@@ -1,20 +1,16 @@
 # h-isthebestletter (Yes that's me)
 
-Hey there! Are you looking for someone who:
-- Has ~5 years of Python experience but is still complete trash at it (what's vectorization)?
-- Fools around with Rust and writes the worst code possible?
-- Laughs at JS but uses it badly anyway?
-- Wrote around 4000 lines of terrible Lua code?
+Hi, I am one of the two vice-presidents of **RdeV** (from 2024 to 2025), a computing club at River Valley High School. Most of my work revolves around RdeV.
+- Major refactoring of [rvhsgamejam.x10.mx](https://rvhsgamejam.x10.mx), including making the website more responsive.
+- Designer, backend and frontend engineer of RVQuest (not yet released).
+- Sole contributor and designer of a [PeerView](https://peerview.x10.mx) rewrite. Work in progress, the unfinished product can be found [here](https://new.peerview.x10.mx).
+- Designer of current PeerView.
+- Custom-made bingo application used by seniors as part of contributions back to the community.
 
-### Well...
-- It is I, h-isthebestletter. No "g"s. (kidding). I am the man you have been looking for.
-- If you ever come across this, this is a private account with only private repos for now.
-
-<p align="center">
-  <img src="https://i.kym-cdn.com/photos/images/original/000/923/851/4e7.jpg" width="500px"><br>
-  <i>They shape our will. They are the culture- they are everything we pass on.</i>
-</p>
-
+Outside of RdeV, I also have many accomplishments.
+- CSIT Computing scholarship reciepient (2024)
+- Plenty of experience (>5 years) with Python and Lua, with some experience (~1 year) in Rust, JavaScript.
+- Currently learning TypeScript.
 
 <!---
 h-isthebestletter/h-isthebestletter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
