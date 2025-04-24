@@ -6,7 +6,7 @@ RdeV is not the average computing club. It focuses on making software (primarily
 Here are my contributions to RdeV:
 - Major refactoring of [rvhsgamejam.x10.mx](https://rvhsgamejam.x10.mx), including making the website more responsive.
 - Designer, backend and frontend engineer of RVQuest (not yet released).
-- Sole contributor and designer of a [PeerView](https://peerview.x10.mx) rewrite. Work in progress, the unfinished product can be found [here](https://new.peerview.x10.mx).\
+- Sole contributor and designer of a [PeerView](https://peerview.x10.mx) rewrite. Work in progress, the unfinished product can be found [here](https://new.peerview.x10.mx).
 - Designer of current PeerView. I also helped out with the backend.
 - Custom-made bingo application used by seniors as part of contributions back to the community.
 - Taught a Godot 4 course.
